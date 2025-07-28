@@ -1,8 +1,3 @@
-
----
-
-📁 ConsultEase — README.md
-```markdown
 # 📊 ConsultEase (MERN + Google Sheets Backend)
 
 ConsultEase is a consultancy data management platform built with the MERN stack and powered by Google Sheets as a lightweight backend. Designed for academic institutions and consultancy offices, it enables role-based access for admins and faculty to register, filter, and verify projects effortlessly.
